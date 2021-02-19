@@ -5,9 +5,6 @@ This is a group project which is assigned in Modeling and Discrete Simulation.
 >Course Professor :  
 >>**Doç. Dr. Müjdat Soytürk**
 
->Engineers :  
+>Developers :  
 >>**Yunus Emre Ertunç**  
->>**Muhammed Enes Aktürk**  
->>**Mahmut Hilmi Arıkmert**  
->>**Kerim Boyacı**  
->>**Hamza Türkmen**  
+>>**Muhammed Enes Aktürk**   
